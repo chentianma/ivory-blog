@@ -1,0 +1,26 @@
+html {
+  height: 100%
+}
+
+body {
+  height: 100%;
+  margin: 0 0;
+  /*font: 12px/1.5 Tahoma,Helvetica,Arial,'宋体',sans-serif;*/
+  /*font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;*/
+  font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+  background-image: url("/static/image/qq.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.content {
+  float: right;
+  width: 80%;
+  height: 100%;
+  margin: 0 auto
+}
+
+.clear {
+  clear: both;
+}
