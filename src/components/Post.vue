@@ -112,7 +112,7 @@ export default {
     margin-top: 30px;
     margin-bottom: 0;
     padding-bottom: 50px;
-    line-height: 30px;
+    line-height: 35px;
   }
 
 </style>

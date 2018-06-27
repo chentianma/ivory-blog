@@ -31,7 +31,7 @@ export default {
   .nav {
     opacity: 0.9;
     position: fixed;
-    width: 22%;
+    width: 20%;
     float: left;
     background-color: #ffffff;
     box-shadow: 3px -3px 5px dimgray;

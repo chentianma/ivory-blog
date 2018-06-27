@@ -115,6 +115,7 @@ export default {
   .posts {
     opacity: 0.9;
     width: 800px;
+    /*width: 70%;*/
     min-height: 500px;
     margin: 0 auto;
     background-color: #ffffff;
@@ -133,11 +134,10 @@ export default {
   }
   .post {
     float: left;
-    width: 320px;
-    margin: 20px 40px;
+    width: 300px;
+    margin: 20px 50px;
     box-shadow: -1px 1px 5px dimgray;
     background-color: #ffffff;
-    /*border: 1px solid gray;*/
   }
   .post a{
     text-decoration: none;
@@ -146,8 +146,8 @@ export default {
     box-shadow: -2px 5px 15px #99ccff;
   }
   .post-img {
-    width: 320px;
-    height: 320px;
+    width: 100%;
+    height: auto;
   }
   .post-header {
     opacity: 0.7;
